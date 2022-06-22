@@ -22,11 +22,15 @@ circleArea r = 3.14 * r ^ 2
 
 -- show : ting som kan printes - ish
 
+-- lister
+
 -- lazy
 
 -- take 2 [1,2,3]
 -- take 2 (error "hei")
 -- take 2 [1,2, error "hei"]
+
+-- compose og $
 
 -- higher kinded types
 

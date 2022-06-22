@@ -54,6 +54,7 @@ instance Ord TwoInts where
 
 ---
 -- Implementer en funksjon som gir indexen der elementet finnes, eller Nothing hvis det ikke finnes.
+-- hint : lag en hjelpefunksjon (gjerne intern med let/where)
 -- test : findIndex 5 [5] == Just 0
 -- test : findIndex 5 [3,4] == Nothing
 
